@@ -77,3 +77,9 @@ footer{
     background: url(assets/bg.jpg);
     padding: 40px 0;
 }
+
+.copyright{
+    color: white;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
